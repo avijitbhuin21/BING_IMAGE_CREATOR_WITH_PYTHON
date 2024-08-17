@@ -13,7 +13,7 @@ return res <-- it will return a list of four links containing the pictures.
 ** to get cookies.json install cookie editor in your browser. Open bing and login. click on the cookie editor and export as a JSON file.
 
 
-#MASS IMAGE GENERATOR:
+# MASS IMAGE GENERATOR:
 
 This Python script automates the generation and download of images using the Bing Image Creator. It uses cookies and headers to mimic browser behavior and handles multiple concurrent requests.
 
